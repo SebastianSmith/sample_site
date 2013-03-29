@@ -1,3 +1,5 @@
 This is a sample file, make some changes on it and push!
 
 This is my change. --Robert Arellano
+
+One more change. --Sebastian Smith
